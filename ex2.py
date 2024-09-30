@@ -1,7 +1,7 @@
 print(" Hello Enter your  name: yuval")
 
 #2
-print("dol")
+print("full")
 
 
 
